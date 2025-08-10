@@ -8,6 +8,6 @@ We basacally do a small network copying a network diagram shown in the day 1 les
 - Enpoints
   - Host/Clients
   - Servers/Providers
-- Switches
-- Routers
-- Firewalls
+- Switches - Layer 2 routing, some have Layer 3 routing. Broadcast domain.
+- Routers - Layer 3 routing, connects different networks.
+- Firewalls - Basic, and Next Gereation Firewalls (NG Firewalls)
